@@ -1,5 +1,3 @@
-### Nicknames
-
 ## Introduction
 
 Nicknames is a Google Chrome web extension that finds and replaces folks real names with
